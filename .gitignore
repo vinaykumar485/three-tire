@@ -6,3 +6,5 @@ crash.log
 crash.*.log
 *.tfvars
 *.tfvars.json
+global-bundle.pem
+global-bundle.pem
